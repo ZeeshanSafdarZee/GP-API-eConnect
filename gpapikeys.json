@@ -1,0 +1,6 @@
+{
+  "HMACSecret": "YourHMACSecretWhichYouCanEncryptIfYouWant",
+  "Note": "Never include your API secret in your source code or upload to Git/TFS repository"
+    }
+  }
+}
