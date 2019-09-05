@@ -9,6 +9,7 @@ using GP.API.Models;
 using System.Diagnostics;
 using GP.API.Services;
 using GP.API.Entities;
+using Microsoft.Dynamics.GP.eConnect.Serialization;
 
 namespace GP.API.Controllers
 {
@@ -94,51 +95,6 @@ namespace GP.API.Controllers
         
             return Ok(orderResponse);
         }
-
-        //[HttpPut]
-        //public IActionResult UpdateOrder([FromBody] SalesOrderDto webSalesOrder, [FromQuery]string Key, [FromQuery]string Timestamp, [FromQuery]string Signature)
-        //{
-        //    var sw = new Stopwatch();
-        //    sw.Start();
-        //    decimal elapsedTime = 0;
-
-        //    _logger.LogInformation(LoggingEvents.INSERT_ORDER, $"UpdateOrder post parameters: {Key}, {Timestamp}, {Signature}");
-
-        //    //if (string.IsNullOrEmpty(Key) || string.IsNullOrEmpty(Timestamp) || string.IsNullOrEmpty(Signature))
-        //    //{
-        //    //	return Unauthorized();
-        //    //}
-
-        //    if (webSalesOrder == null)
-        //    {
-        //        _logger.LogInformation(LoggingEvents.INSERT_ORDER_EXCEPTION, $"UpdateOrder: Bad Request: Vendor object was not provided in body (null)");
-        //        return BadRequest();
-        //    }
-
-        //    if (ModelState.IsValid == false)
-        //    {
-        //        _logger.LogInformation(LoggingEvents.INSERT_ORDER_EXCEPTION, $"UpdateOrder: Invalid Request: Invalid order values were submitted");
-        //        return BadRequest(ModelState);
-        //    }
-
-
-        //    var response = new SalesOrderResponseDto();
-
-        //    var eConnOrder = Mapper.Map<taUpdateCreateVendorRcd>(webSalesOrder);
-
-        //    var orderResponse = _importVendor.ImportGPVendor(eConnOrder);
-
-        //    sw.Stop();
-
-        //    elapsedTime = Convert.ToDecimal(sw.ElapsedMilliseconds);
-        //    orderResponse.Elapsed = elapsedTime.ToString();
-
-        //    _logger.LogInformation(LoggingEvents.INSERT_VENDOR_COMPLETE, "ImportVendor complete: " + orderResponse.Elapsed);
-
-        //    //return Created(new Uri(_context.Request.Path, UriKind.Relative), orderResponse);
-        //    return Ok(orderResponse);
-
-        //}
 
         [HttpPost]
         public IActionResult SaveOrder([FromBody]SalesOrderDto webSalesOrder, [FromQuery]string Key, [FromQuery]string Timestamp, [FromQuery]string Signature)
@@ -236,51 +192,55 @@ namespace GP.API.Controllers
             return Ok(saveOrderResponse);
 
         }
+        [HttpDelete]
+        public IActionResult DeleteOrder([FromBody]taSopLineDelete webSalesOrder, [FromQuery]string Key, [FromQuery]string Timestamp, [FromQuery]string Signature)
+        {
+            var sw = new Stopwatch();
+            sw.Start();
+            decimal elapsedTime = 0;
+
+            _logger.LogInformation(LoggingEvents.GET_STATUS, $"DeleteOrder post parameters: {Key}, {Timestamp}, {Signature}");
+
+            //if (string.IsNullOrEmpty(Key) || string.IsNullOrEmpty(Timestamp) || string.IsNullOrEmpty(Signature))
+            //{
+            //    return Unauthorized();
+            //}
+
+            if (webSalesOrder == null)
+            {
+                _logger.LogInformation(LoggingEvents.INSERT_ORDER_EXCEPTION, $"DeleteOrder: Bad Request: Vendor object was not provided in body (null)");
+                return BadRequest();
+            }
+
+            if (ModelState.IsValid == false)
+            {
+                _logger.LogInformation(LoggingEvents.INSERT_ORDER_EXCEPTION, $"DeleteOrder: Invalid Request: Invalid order values were submitted");
+                return BadRequest(ModelState);
+            }
+
+            SalesOrderResponseDto orderResponse = new SalesOrderResponseDto();
+
+            bool success = APIController.Instance.DeleteSalesOrder(webSalesOrder, ref orderResponse);
+
+            var saveOrderResponse = Mapper.Map<SalesOrderResponseDto>(orderResponse);
+
+            if (success == false)
+            {
+                saveOrderResponse.Success = false;
+                saveOrderResponse.OrderNumber = string.Empty;
+                saveOrderResponse.ErrorCode = LoggingEvents.INSERT_ORDER_FAILED;
+                _logger.LogInformation(LoggingEvents.INSERT_ORDER_FAILED, "UpdateOrder failed: " + orderResponse.ErrorMessage);
+            }
+
+            sw.Stop();
+
+            elapsedTime = Convert.ToDecimal(sw.ElapsedMilliseconds);
+            saveOrderResponse.Elapsed = elapsedTime.ToString();
+
+            _logger.LogInformation(LoggingEvents.INSERT_ORDER, "UpdateOrder complete: " + saveOrderResponse.Elapsed);
+
+            return Ok(saveOrderResponse);
+        }
         
-        //[HttpPost]
-        //public IActionResult SaveOrder([FromBody]SalesOrderDto webSalesOrder, [FromQuery]string Key, [FromQuery]string Timestamp, [FromQuery]string Signature)
-        //{
-        //    var sw = new Stopwatch();
-        //    sw.Start();
-        //    decimal elapsedTime = 0;
-
-        //    _logger.LogInformation(LoggingEvents.GET_STATUS, $"SaveOrder post parameters: {Key}, {Timestamp}, {Signature}");
-
-        //    //if (string.IsNullOrEmpty(Key) || string.IsNullOrEmpty(Timestamp) || string.IsNullOrEmpty(Signature))
-        //    //{
-        //    //    return Unauthorized();
-        //    //}
-
-        //    if (webSalesOrder == null)
-        //    {
-        //        return StatusCode(400);
-        //    }
-
-        //    SalesOrderResponseDto orderResponse = new SalesOrderResponseDto();
-
-        //    bool success = APIController.Instance.ImportSalesOrder(webSalesOrder, ref orderResponse);
-
-        //    var saveOrderResponse = Mapper.Map<SalesOrderResponseDto>(orderResponse);
-
-        //    if (success == false)
-        //    {
-        //        saveOrderResponse.Success = false;
-        //        saveOrderResponse.OrderNumber = string.Empty;
-        //        saveOrderResponse.ErrorCode = LoggingEvents.INSERT_ORDER_FAILED;
-        //        _logger.LogInformation(LoggingEvents.INSERT_ORDER_FAILED, "SaveOrder failed: " + orderResponse.ErrorMessage);
-        //    }
-            
-
-        //    sw.Stop();
-
-        //    elapsedTime = Convert.ToDecimal(sw.ElapsedMilliseconds);
-        //    saveOrderResponse.Elapsed = elapsedTime.ToString();
-
-        //    _logger.LogInformation(LoggingEvents.INSERT_ORDER, "SaveOrder complete: " + saveOrderResponse.Elapsed);
-
-        //    return Ok(saveOrderResponse);
-
-        //}
-
     }
 }

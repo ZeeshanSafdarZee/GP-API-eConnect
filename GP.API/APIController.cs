@@ -367,6 +367,70 @@ namespace GP.API
             }
 
         }
+        public bool DeleteSalesOrder(taSopLineDelete salesOrder, ref SalesOrderResponseDto orderResponse)
+        {
+            try
+            {
+                SOPDeleteLineType deleteLineType = new SOPDeleteLineType();
+
+                taSopLineDelete salesLine = new taSopLineDelete();
+
+                taSopDeleteDocument sopDeleteDocument = new taSopDeleteDocument();
+                salesLine.SOPNUMBE = salesOrder.SOPNUMBE;
+                salesLine.ITEMNMBR = salesOrder.ITEMNMBR;
+                salesLine.SOPTYPE = salesOrder.SOPTYPE;
+                salesLine.DeleteType = salesOrder.DeleteType; // delete one line item
+
+                sopDeleteDocument.SOPNUMBE = salesOrder.SOPNUMBE;
+                sopDeleteDocument.SOPTYPE = salesOrder.SOPTYPE;
+
+                deleteLineType.taSopLineDelete = salesLine;
+
+                eConnectType eConnect = new eConnectType();
+                SOPDeleteLineType[] MySopTransactionType = new SOPDeleteLineType[1] { deleteLineType };
+
+                eConnect.SOPDeleteLineType = MySopTransactionType;
+
+                // Serialize the master vendor type in memory.
+                MemoryStream memoryStream = new MemoryStream();
+                XmlSerializer xmlSerializer = new XmlSerializer(eConnect.GetType());
+
+
+                // Serialize the eConnectType.
+                xmlSerializer.Serialize(memoryStream, eConnect);
+
+                // Reset the position of the memory stream to the start.              
+                memoryStream.Position = 0;
+
+                // Create an XmlDocument from the serialized eConnectType in memory.
+                XmlDocument xmlDocument = new XmlDocument();
+                xmlDocument.Load(memoryStream);
+                memoryStream.Close();
+
+                string response = string.Empty;
+
+                bool returnValue = eConn.DeleteEntity(ref response, xmlDocument.OuterXml, instance.APIModel.APIConfig.GPCompanyDB);
+
+                if (returnValue == true)
+                {
+                    orderResponse.ErrorCode = 0;
+                    orderResponse.ErrorMessage = string.Empty;
+                    return true;
+                }
+                else
+                {
+                    orderResponse.ErrorCode = 520;
+                    orderResponse.ErrorMessage = "Failed to delete eConnect test Sale Transaction: " + response;
+                    return false;
+                }
+
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+
+        }
 
     }
 }

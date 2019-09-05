@@ -1192,3 +1192,2326 @@ localhost:54996
 09-05 12:34:31.3730+05:00 ::1 0HLPHQDS8M1OP [INF] /api/v1/Order HMAC Signature valid
 09-05 12:34:32.1762+05:00 ::1 0HLPHQDS8M1OP [INF] /api/v1/Order UpdateOrder post parameters: , , 
 09-05 12:34:42.9827+05:00 ::1 0HLPHQDS8M1OP [INF] /api/v1/Order UpdateOrder complete: 10806
+09-05 15:23:00.3963+05:00 ::1 0HLPHTC3J532S [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 15:23:00.4372+05:00 ::1 0HLPHTC3J532S [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 15:23:00.9992+05:00 ::1 0HLPHTC3J532T [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 15:23:00.9992+05:00 ::1 0HLPHTC3J532U [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 15:23:01.0002+05:00 ::1 0HLPHTC3J532T [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 15:23:01.0002+05:00 ::1 0HLPHTC3J532U [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 15:23:01.0172+05:00 ::1 0HLPHTC3J532V [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 15:23:01.0181+05:00 ::1 0HLPHTC3J532V [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 15:23:01.0181+05:00 ::1 0HLPHTC3J5330 [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 15:23:01.0181+05:00 ::1 0HLPHTC3J5330 [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 15:23:01.0191+05:00 ::1 0HLPHTC3J5331 [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 15:23:01.0191+05:00 ::1 0HLPHTC3J5331 [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 15:23:01.0461+05:00 ::1 0HLPHTC3J5332 [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 15:23:01.0461+05:00 ::1 0HLPHTC3J5332 [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 15:23:01.0541+05:00 ::1 0HLPHTC3J5333 [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 15:23:01.0541+05:00 ::1 0HLPHTC3J5333 [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 15:23:01.0660+05:00 ::1 0HLPHTC3J5334 [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 15:23:01.0660+05:00 ::1 0HLPHTC3J5334 [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 15:23:01.0750+05:00 ::1 0HLPHTC3J5335 [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 15:23:01.0750+05:00 ::1 0HLPHTC3J5335 [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 15:23:01.0750+05:00 ::1 0HLPHTC3J5336 [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 15:23:01.0760+05:00 ::1 0HLPHTC3J5336 [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 15:23:01.0770+05:00 ::1 0HLPHTC3J5337 [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 15:23:01.0780+05:00 ::1 0HLPHTC3J5337 [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 15:23:01.0989+05:00 ::1 0HLPHTC3J5338 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 15:23:01.0989+05:00 ::1 0HLPHTC3J5338 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 15:23:01.1049+05:00 ::1 0HLPHTC3J5339 [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 15:23:01.1049+05:00 ::1 0HLPHTC3J5339 [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 15:23:01.1189+05:00 ::1 0HLPHTC3J533A [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 15:23:01.1189+05:00 ::1 0HLPHTC3J533A [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 15:23:01.1199+05:00 ::1 0HLPHTC3J533B [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 15:23:01.1199+05:00 ::1 0HLPHTC3J533B [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 15:23:01.1229+05:00 ::1 0HLPHTC3J533C [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 15:23:01.1259+05:00 ::1 0HLPHTC3J533C [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 15:23:01.1318+05:00 ::1 0HLPHTC3J533D [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 15:23:01.1328+05:00 ::1 0HLPHTC3J533D [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 15:23:01.1428+05:00 ::1 0HLPHTC3J533E [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 15:23:01.1428+05:00 ::1 0HLPHTC3J533E [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 15:23:01.1687+05:00 ::1 0HLPHTC3J533F [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 15:23:01.1687+05:00 ::1 0HLPHTC3J533F [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 15:23:01.4839+05:00 ::1 0HLPHTC3J533G [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 15:23:01.4849+05:00 ::1 0HLPHTC3J533G [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 15:23:07.5803+05:00 ::1 0HLPHTC3J533H [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 15:23:07.5803+05:00 ::1 0HLPHTC3J533H [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 15:23:08.9762+05:00 ::1 0HLPHTC3J533I [INF] /api/v1/Status HMAC canonical string:
+GET
+localhost:54996
+/api/v1/Status
+
+09-05 15:23:08.9762+05:00 ::1 0HLPHTC3J533I [INF] /api/v1/Status HMAC Signature:
+797UDxje367h4eEOAOdBPrQ4GKPomDoVwf/evaKKNGs=
+09-05 15:23:08.9762+05:00 ::1 0HLPHTC3J533I [INF] /api/v1/Status HMAC Signature valid
+09-05 15:23:09.4036+05:00 ::1 0HLPHTC3J533I [INF] /api/v1/Status Status request parameters: , , 
+09-05 15:23:14.0199+05:00 ::1 0HLPHTC3J533I [INF] /api/v1/Status Status call completed in 4616ms
+09-05 15:30:22.5481+05:00 ::1 0HLPHTG7BSUHB [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 15:30:22.6130+05:00 ::1 0HLPHTG7BSUHB [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 15:30:23.2064+05:00 ::1 0HLPHTG7BSUHC [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 15:30:23.2333+05:00 ::1 0HLPHTG7BSUHC [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 15:30:23.2562+05:00 ::1 0HLPHTG7BSUHD [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 15:30:23.2762+05:00 ::1 0HLPHTG7BSUHD [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 15:30:23.3101+05:00 ::1 0HLPHTG7BSUHE [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 15:30:23.3151+05:00 ::1 0HLPHTG7BSUHE [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 15:30:23.3330+05:00 ::1 0HLPHTG7BSUHF [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 15:30:23.3979+05:00 ::1 0HLPHTG7BSUHF [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 15:30:23.4218+05:00 ::1 0HLPHTG7BSUHG [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 15:30:23.4398+05:00 ::1 0HLPHTG7BSUHG [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 15:30:23.4517+05:00 ::1 0HLPHTG7BSUHH [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 15:30:23.4567+05:00 ::1 0HLPHTG7BSUHI [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 15:30:23.4607+05:00 ::1 0HLPHTG7BSUHH [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 15:30:23.4637+05:00 ::1 0HLPHTG7BSUHJ [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 15:30:23.4647+05:00 ::1 0HLPHTG7BSUHI [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 15:30:23.4667+05:00 ::1 0HLPHTG7BSUHJ [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 15:30:23.5554+05:00 ::1 0HLPHTG7BSUHK [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 15:30:23.5595+05:00 ::1 0HLPHTG7BSUHL [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 15:30:23.5614+05:00 ::1 0HLPHTG7BSUHK [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 15:30:23.5634+05:00 ::1 0HLPHTG7BSUHL [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 15:30:23.5953+05:00 ::1 0HLPHTG7BSUHM [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 15:30:23.6213+05:00 ::1 0HLPHTG7BSUHM [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 15:30:23.6542+05:00 ::1 0HLPHTG7BSUHN [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 15:30:23.6681+05:00 ::1 0HLPHTG7BSUHN [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 15:30:23.6711+05:00 ::1 0HLPHTG7BSUHO [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 15:30:23.6781+05:00 ::1 0HLPHTG7BSUHO [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 15:30:23.7140+05:00 ::1 0HLPHTG7BSUHP [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 15:30:23.7190+05:00 ::1 0HLPHTG7BSUHQ [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 15:30:23.7240+05:00 ::1 0HLPHTG7BSUHP [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 15:30:23.7380+05:00 ::1 0HLPHTG7BSUHQ [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 15:30:23.7998+05:00 ::1 0HLPHTG7BSUHR [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 15:30:23.8477+05:00 ::1 0HLPHTG7BSUHR [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 15:30:23.8796+05:00 ::1 0HLPHTG7BSUHS [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 15:30:23.8826+05:00 ::1 0HLPHTG7BSUHS [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 15:30:23.9604+05:00 ::1 0HLPHTG7BSUHT [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 15:30:23.9833+05:00 ::1 0HLPHTG7BSUHU [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 15:30:23.9843+05:00 ::1 0HLPHTG7BSUHT [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 15:30:23.9883+05:00 ::1 0HLPHTG7BSUHU [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 15:30:24.2925+05:00 ::1 0HLPHTG7BSUHV [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 15:30:24.2965+05:00 ::1 0HLPHTG7BSUHV [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 15:30:29.3141+05:00 ::1 0HLPHTG7BSUI0 [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 15:30:29.3171+05:00 ::1 0HLPHTG7BSUI0 [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 15:30:31.5256+05:00 ::1 0HLPHTG7BSUI1 [INF] /api/v1/Status HMAC canonical string:
+GET
+localhost:54996
+/api/v1/Status
+
+09-05 15:30:31.5266+05:00 ::1 0HLPHTG7BSUI1 [INF] /api/v1/Status HMAC Signature:
+797UDxje367h4eEOAOdBPrQ4GKPomDoVwf/evaKKNGs=
+09-05 15:30:31.5296+05:00 ::1 0HLPHTG7BSUI1 [INF] /api/v1/Status HMAC Signature valid
+09-05 15:30:31.9625+05:00 ::1 0HLPHTG7BSUI1 [INF] /api/v1/Status Status request parameters: , , 
+09-05 15:33:51.0400+05:00 ::1 0HLPHTI5GA1I8 [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 15:33:51.1088+05:00 ::1 0HLPHTI5GA1I8 [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 15:33:51.7880+05:00 ::1 0HLPHTI5GA1I9 [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 15:33:51.7940+05:00 ::1 0HLPHTI5GA1I9 [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 15:33:51.8219+05:00 ::1 0HLPHTI5GA1IB [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 15:33:51.8219+05:00 ::1 0HLPHTI5GA1IA [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 15:33:51.8329+05:00 ::1 0HLPHTI5GA1IB [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 15:33:51.8339+05:00 ::1 0HLPHTI5GA1IA [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 15:33:51.8817+05:00 ::1 0HLPHTI5GA1IC [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 15:33:51.8967+05:00 ::1 0HLPHTI5GA1ID [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 15:33:51.8997+05:00 ::1 0HLPHTI5GA1IE [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 15:33:51.8997+05:00 ::1 0HLPHTI5GA1ID [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 15:33:51.9077+05:00 ::1 0HLPHTI5GA1IE [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 15:33:51.9116+05:00 ::1 0HLPHTI5GA1IC [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 15:33:51.9286+05:00 ::1 0HLPHTI5GA1IF [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 15:33:51.9456+05:00 ::1 0HLPHTI5GA1IF [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 15:33:51.9725+05:00 ::1 0HLPHTI5GA1IG [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 15:33:51.9755+05:00 ::1 0HLPHTI5GA1IG [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 15:33:51.9815+05:00 ::1 0HLPHTI5GA1IH [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 15:33:51.9864+05:00 ::1 0HLPHTI5GA1IH [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 15:33:51.9914+05:00 ::1 0HLPHTI5GA1II [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 15:33:52.0114+05:00 ::1 0HLPHTI5GA1II [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 15:33:52.0423+05:00 ::1 0HLPHTI5GA1IJ [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 15:33:52.0563+05:00 ::1 0HLPHTI5GA1IJ [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 15:33:52.0622+05:00 ::1 0HLPHTI5GA1IK [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 15:33:52.0752+05:00 ::1 0HLPHTI5GA1IK [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 15:33:52.0882+05:00 ::1 0HLPHTI5GA1IL [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 15:33:52.0902+05:00 ::1 0HLPHTI5GA1IL [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 15:33:52.1071+05:00 ::1 0HLPHTI5GA1IM [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 15:33:52.1271+05:00 ::1 0HLPHTI5GA1IN [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 15:33:52.1420+05:00 ::1 0HLPHTI5GA1IN [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 15:33:52.1450+05:00 ::1 0HLPHTI5GA1IM [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 15:33:52.1739+05:00 ::1 0HLPHTI5GA1IO [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 15:33:52.1789+05:00 ::1 0HLPHTI5GA1IO [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 15:33:52.1789+05:00 ::1 0HLPHTI5GA1IP [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 15:33:52.1839+05:00 ::1 0HLPHTI5GA1IP [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 15:33:52.2956+05:00 ::1 0HLPHTI5GA1IQ [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 15:33:52.3255+05:00 ::1 0HLPHTI5GA1IQ [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 15:33:52.3555+05:00 ::1 0HLPHTI5GA1IR [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 15:33:52.4043+05:00 ::1 0HLPHTI5GA1IR [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 15:33:52.6557+05:00 ::1 0HLPHTI5GA1IS [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 15:33:52.6577+05:00 ::1 0HLPHTI5GA1IS [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 15:34:07.7908+05:00 ::1 0HLPHTI5GA1IT [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 15:34:07.7988+05:00 ::1 0HLPHTI5GA1IT [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 15:34:09.0539+05:00 ::1 0HLPHTI5GA1IU [INF] /api/v1/Status HMAC canonical string:
+GET
+localhost:54996
+/api/v1/Status
+
+09-05 15:34:09.0579+05:00 ::1 0HLPHTI5GA1IU [INF] /api/v1/Status HMAC Signature:
+797UDxje367h4eEOAOdBPrQ4GKPomDoVwf/evaKKNGs=
+09-05 15:34:09.0589+05:00 ::1 0HLPHTI5GA1IU [INF] /api/v1/Status HMAC Signature valid
+09-05 15:34:09.4369+05:00 ::1 0HLPHTI5GA1IU [INF] /api/v1/Status Status request parameters: , , 
+09-05 15:38:18.3726+05:00 ::1 0HLPHTKL5QD5N [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 15:38:18.4524+05:00 ::1 0HLPHTKL5QD5N [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 15:38:19.0149+05:00 ::1 0HLPHTKL5QD5O [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 15:38:19.0259+05:00 ::1 0HLPHTKL5QD5O [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 15:38:19.0827+05:00 ::1 0HLPHTKL5QD5P [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 15:38:19.0967+05:00 ::1 0HLPHTKL5QD5Q [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 15:38:19.0977+05:00 ::1 0HLPHTKL5QD5P [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 15:38:19.0997+05:00 ::1 0HLPHTKL5QD5R [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 15:38:19.1097+05:00 ::1 0HLPHTKL5QD5R [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 15:38:19.1166+05:00 ::1 0HLPHTKL5QD5Q [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 15:38:19.1795+05:00 ::1 0HLPHTKL5QD5S [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 15:38:19.1825+05:00 ::1 0HLPHTKL5QD5S [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 15:38:19.1884+05:00 ::1 0HLPHTKL5QD5T [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 15:38:19.1924+05:00 ::1 0HLPHTKL5QD5U [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 15:38:19.1964+05:00 ::1 0HLPHTKL5QD5U [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 15:38:19.1974+05:00 ::1 0HLPHTKL5QD5V [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 15:38:19.1974+05:00 ::1 0HLPHTKL5QD5T [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 15:38:19.2004+05:00 ::1 0HLPHTKL5QD5V [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 15:38:19.3021+05:00 ::1 0HLPHTKL5QD60 [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 15:38:19.3051+05:00 ::1 0HLPHTKL5QD60 [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 15:38:19.3081+05:00 ::1 0HLPHTKL5QD61 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 15:38:19.3151+05:00 ::1 0HLPHTKL5QD62 [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 15:38:19.3451+05:00 ::1 0HLPHTKL5QD61 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 15:38:19.3441+05:00 ::1 0HLPHTKL5QD63 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 15:38:19.3683+05:00 ::1 0HLPHTKL5QD62 [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 15:38:19.4202+05:00 ::1 0HLPHTKL5QD63 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 15:38:19.4661+05:00 ::1 0HLPHTKL5QD64 [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 15:38:19.4691+05:00 ::1 0HLPHTKL5QD64 [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 15:38:19.5010+05:00 ::1 0HLPHTKL5QD65 [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 15:38:19.5139+05:00 ::1 0HLPHTKL5QD65 [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 15:38:19.5299+05:00 ::1 0HLPHTKL5QD66 [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 15:38:19.5339+05:00 ::1 0HLPHTKL5QD66 [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 15:38:19.5439+05:00 ::1 0HLPHTKL5QD67 [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 15:38:19.5688+05:00 ::1 0HLPHTKL5QD67 [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 15:38:19.6446+05:00 ::1 0HLPHTKL5QD68 [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 15:38:19.6506+05:00 ::1 0HLPHTKL5QD68 [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 15:38:19.6576+05:00 ::1 0HLPHTKL5QD69 [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 15:38:19.6615+05:00 ::1 0HLPHTKL5QD69 [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 15:38:19.7832+05:00 ::1 0HLPHTKL5QD6A [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 15:38:19.7922+05:00 ::1 0HLPHTKL5QD6A [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 15:38:20.0365+05:00 ::1 0HLPHTKL5QD6B [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 15:38:20.0385+05:00 ::1 0HLPHTKL5QD6B [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 15:38:23.4047+05:00 ::1 0HLPHTKL5QD6C [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 15:38:23.4067+05:00 ::1 0HLPHTKL5QD6C [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 15:38:24.5907+05:00 ::1 0HLPHTKL5QD6D [INF] /api/v1/Status HMAC canonical string:
+GET
+localhost:54996
+/api/v1/Status
+
+09-05 15:38:24.5957+05:00 ::1 0HLPHTKL5QD6D [INF] /api/v1/Status HMAC Signature:
+797UDxje367h4eEOAOdBPrQ4GKPomDoVwf/evaKKNGs=
+09-05 15:38:24.5967+05:00 ::1 0HLPHTKL5QD6D [INF] /api/v1/Status HMAC Signature valid
+09-05 15:38:25.0495+05:00 ::1 0HLPHTKL5QD6D [INF] /api/v1/Status Status request parameters: , , 
+09-05 15:50:07.3994+05:00 ::1 0HLPHTR8FJ07M [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 15:50:07.4962+05:00 ::1 0HLPHTR8FJ07M [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 15:50:10.1860+05:00 ::1 0HLPHTR8FJ07N [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 15:50:10.1930+05:00 ::1 0HLPHTR8FJ07O [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 15:50:10.2020+05:00 ::1 0HLPHTR8FJ07N [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 15:50:10.2528+05:00 ::1 0HLPHTR8FJ07O [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 15:50:10.3526+05:00 ::1 0HLPHTR8FJ07P [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 15:50:10.4832+05:00 ::1 0HLPHTR8FJ07P [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 15:50:11.5503+05:00 ::1 0HLPHTR8FJ07Q [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 15:50:11.5683+05:00 ::1 0HLPHTR8FJ07Q [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 15:50:11.6331+05:00 ::1 0HLPHTR8FJ07R [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 15:50:11.6351+05:00 ::1 0HLPHTR8FJ07S [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 15:50:11.6401+05:00 ::1 0HLPHTR8FJ07S [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 15:50:11.6481+05:00 ::1 0HLPHTR8FJ07R [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 15:50:11.7089+05:00 ::1 0HLPHTR8FJ07T [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 15:50:11.7698+05:00 ::1 0HLPHTR8FJ07T [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 15:50:11.7728+05:00 ::1 0HLPHTR8FJ07U [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 15:50:11.7877+05:00 ::1 0HLPHTR8FJ07U [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 15:50:11.8386+05:00 ::1 0HLPHTR8FJ07V [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 15:50:11.8585+05:00 ::1 0HLPHTR8FJ07V [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 15:50:11.9593+05:00 ::1 0HLPHTR8FJ080 [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 15:50:11.9622+05:00 ::1 0HLPHTR8FJ080 [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 15:50:12.0201+05:00 ::1 0HLPHTR8FJ081 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 15:50:12.0420+05:00 ::1 0HLPHTR8FJ082 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 15:50:12.0610+05:00 ::1 0HLPHTR8FJ082 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 15:50:12.0700+05:00 ::1 0HLPHTR8FJ081 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 15:50:12.3572+05:00 ::1 0HLPHTR8FJ083 [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 15:50:12.3672+05:00 ::1 0HLPHTR8FJ084 [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 15:50:12.3981+05:00 ::1 0HLPHTR8FJ083 [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 15:50:12.4021+05:00 ::1 0HLPHTR8FJ085 [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 15:50:12.4051+05:00 ::1 0HLPHTR8FJ084 [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 15:50:12.4130+05:00 ::1 0HLPHTR8FJ085 [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 15:50:12.5966+05:00 ::1 0HLPHTR8FJ086 [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 15:50:12.6225+05:00 ::1 0HLPHTR8FJ086 [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 15:50:12.7621+05:00 ::1 0HLPHTR8FJ087 [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 15:50:12.7701+05:00 ::1 0HLPHTR8FJ088 [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 15:50:12.7721+05:00 ::1 0HLPHTR8FJ087 [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 15:50:12.7910+05:00 ::1 0HLPHTR8FJ089 [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 15:50:12.7950+05:00 ::1 0HLPHTR8FJ088 [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 15:50:12.8100+05:00 ::1 0HLPHTR8FJ089 [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 15:50:13.5620+05:00 ::1 0HLPHTR8FJ08A [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 15:50:13.5700+05:00 ::1 0HLPHTR8FJ08A [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 15:50:18.1946+05:00 ::1 0HLPHTR8FJ08B [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 15:50:18.2026+05:00 ::1 0HLPHTR8FJ08B [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 15:50:19.4811+05:00 ::1 0HLPHTR8FJ08C [INF] /api/v1/Status HMAC canonical string:
+GET
+localhost:54996
+/api/v1/Status
+
+09-05 15:50:19.4971+05:00 ::1 0HLPHTR8FJ08C [INF] /api/v1/Status HMAC Signature:
+797UDxje367h4eEOAOdBPrQ4GKPomDoVwf/evaKKNGs=
+09-05 15:50:19.5051+05:00 ::1 0HLPHTR8FJ08C [INF] /api/v1/Status HMAC Signature valid
+09-05 15:50:20.5742+05:00 ::1 0HLPHTR8FJ08C [INF] /api/v1/Status Status request parameters: , , 
+09-05 15:50:46.7455+05:00 ::1 0HLPHTR8FJ08C [INF] /api/v1/Status Status call completed in 26170ms
+09-05 15:54:13.2441+05:00 ::1 0HLPHTTHO0SOJ [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 15:54:13.2860+05:00 ::1 0HLPHTTHO0SOJ [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 15:54:13.8864+05:00 ::1 0HLPHTTHO0SOK [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 15:54:13.8864+05:00 ::1 0HLPHTTHO0SOK [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 15:54:13.8864+05:00 ::1 0HLPHTTHO0SOL [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 15:54:13.8874+05:00 ::1 0HLPHTTHO0SOL [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 15:54:13.9243+05:00 ::1 0HLPHTTHO0SOM [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 15:54:13.9253+05:00 ::1 0HLPHTTHO0SOM [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 15:54:13.9263+05:00 ::1 0HLPHTTHO0SON [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 15:54:13.9263+05:00 ::1 0HLPHTTHO0SON [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 15:54:13.9453+05:00 ::1 0HLPHTTHO0SOO [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 15:54:13.9453+05:00 ::1 0HLPHTTHO0SOO [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 15:54:13.9503+05:00 ::1 0HLPHTTHO0SOP [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 15:54:13.9503+05:00 ::1 0HLPHTTHO0SOP [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 15:54:14.0171+05:00 ::1 0HLPHTTHO0SOR [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 15:54:14.0171+05:00 ::1 0HLPHTTHO0SOQ [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 15:54:14.0181+05:00 ::1 0HLPHTTHO0SOR [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 15:54:14.0181+05:00 ::1 0HLPHTTHO0SOQ [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 15:54:14.0181+05:00 ::1 0HLPHTTHO0SOS [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 15:54:14.0181+05:00 ::1 0HLPHTTHO0SOT [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 15:54:14.0181+05:00 ::1 0HLPHTTHO0SOS [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 15:54:14.0181+05:00 ::1 0HLPHTTHO0SOT [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 15:54:14.0550+05:00 ::1 0HLPHTTHO0SOU [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 15:54:14.0550+05:00 ::1 0HLPHTTHO0SOU [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 15:54:14.0560+05:00 ::1 0HLPHTTHO0SOV [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 15:54:14.0560+05:00 ::1 0HLPHTTHO0SOV [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 15:54:14.0689+05:00 ::1 0HLPHTTHO0SP0 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 15:54:14.0689+05:00 ::1 0HLPHTTHO0SP0 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 15:54:14.0879+05:00 ::1 0HLPHTTHO0SP1 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 15:54:14.0879+05:00 ::1 0HLPHTTHO0SP1 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 15:54:14.0879+05:00 ::1 0HLPHTTHO0SP2 [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 15:54:14.0879+05:00 ::1 0HLPHTTHO0SP2 [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 15:54:14.0929+05:00 ::1 0HLPHTTHO0SP3 [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 15:54:14.0929+05:00 ::1 0HLPHTTHO0SP3 [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 15:54:14.1617+05:00 ::1 0HLPHTTHO0SP4 [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 15:54:14.1617+05:00 ::1 0HLPHTTHO0SP4 [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 15:54:14.1767+05:00 ::1 0HLPHTTHO0SP5 [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 15:54:14.1777+05:00 ::1 0HLPHTTHO0SP5 [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 15:54:14.1986+05:00 ::1 0HLPHTTHO0SP6 [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 15:54:14.1996+05:00 ::1 0HLPHTTHO0SP6 [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 15:54:14.4360+05:00 ::1 0HLPHTTHO0SP7 [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 15:54:14.4360+05:00 ::1 0HLPHTTHO0SP7 [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 15:54:18.8621+05:00 ::1 0HLPHTTHO0SP8 [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 15:54:18.8621+05:00 ::1 0HLPHTTHO0SP8 [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 15:54:21.4751+05:00 ::1 0HLPHTTHO0SP9 [INF] /api/v1/Status HMAC canonical string:
+GET
+localhost:54996
+/api/v1/Status
+
+09-05 15:54:21.4751+05:00 ::1 0HLPHTTHO0SP9 [INF] /api/v1/Status HMAC Signature:
+797UDxje367h4eEOAOdBPrQ4GKPomDoVwf/evaKKNGs=
+09-05 15:54:21.4761+05:00 ::1 0HLPHTTHO0SP9 [INF] /api/v1/Status HMAC Signature valid
+09-05 15:54:22.0057+05:00 ::1 0HLPHTTHO0SP9 [INF] /api/v1/Status Status request parameters: , , 
+09-05 15:54:26.0368+05:00 ::1 0HLPHTTHO0SP9 [INF] /api/v1/Status Status call completed in 4031ms
+09-05 15:55:33.0310+05:00 ::1 0HLPHTU9GUGTF [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 15:55:33.0789+05:00 ::1 0HLPHTU9GUGTF [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 15:55:33.4848+05:00 ::1 0HLPHTU9GUGTG [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 15:55:33.4848+05:00 ::1 0HLPHTU9GUGTH [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 15:55:33.4848+05:00 ::1 0HLPHTU9GUGTG [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 15:55:33.4848+05:00 ::1 0HLPHTU9GUGTH [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 15:55:33.4898+05:00 ::1 0HLPHTU9GUGTI [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 15:55:33.4898+05:00 ::1 0HLPHTU9GUGTI [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 15:55:33.5177+05:00 ::1 0HLPHTU9GUGTJ [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 15:55:33.5177+05:00 ::1 0HLPHTU9GUGTK [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 15:55:33.5177+05:00 ::1 0HLPHTU9GUGTJ [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 15:55:33.5177+05:00 ::1 0HLPHTU9GUGTK [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 15:55:33.5686+05:00 ::1 0HLPHTU9GUGTL [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 15:55:33.5686+05:00 ::1 0HLPHTU9GUGTL [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 15:55:33.5865+05:00 ::1 0HLPHTU9GUGTM [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 15:55:33.5865+05:00 ::1 0HLPHTU9GUGTM [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 15:55:33.6184+05:00 ::1 0HLPHTU9GUGTN [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 15:55:33.6184+05:00 ::1 0HLPHTU9GUGTN [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 15:55:33.6194+05:00 ::1 0HLPHTU9GUGTO [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 15:55:33.6194+05:00 ::1 0HLPHTU9GUGTO [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 15:55:33.6194+05:00 ::1 0HLPHTU9GUGTP [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 15:55:33.6194+05:00 ::1 0HLPHTU9GUGTP [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 15:55:33.6204+05:00 ::1 0HLPHTU9GUGTQ [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 15:55:33.6204+05:00 ::1 0HLPHTU9GUGTQ [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 15:55:33.6314+05:00 ::1 0HLPHTU9GUGTR [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 15:55:33.6314+05:00 ::1 0HLPHTU9GUGTR [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 15:55:33.6563+05:00 ::1 0HLPHTU9GUGTS [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 15:55:33.6563+05:00 ::1 0HLPHTU9GUGTS [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 15:55:33.6713+05:00 ::1 0HLPHTU9GUGTT [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 15:55:33.6713+05:00 ::1 0HLPHTU9GUGTT [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 15:55:33.6823+05:00 ::1 0HLPHTU9GUGTU [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 15:55:33.6823+05:00 ::1 0HLPHTU9GUGTU [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 15:55:33.6823+05:00 ::1 0HLPHTU9GUGTV [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 15:55:33.6823+05:00 ::1 0HLPHTU9GUGTV [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 15:55:33.8648+05:00 ::1 0HLPHTU9GUGU0 [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 15:55:33.8648+05:00 ::1 0HLPHTU9GUGU0 [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 15:55:33.9017+05:00 ::1 0HLPHTU9GUGU1 [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 15:55:33.9017+05:00 ::1 0HLPHTU9GUGU1 [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 15:55:33.9027+05:00 ::1 0HLPHTU9GUGU2 [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 15:55:33.9027+05:00 ::1 0HLPHTU9GUGU2 [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 15:55:34.2159+05:00 ::1 0HLPHTU9GUGU3 [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 15:55:34.2159+05:00 ::1 0HLPHTU9GUGU3 [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 15:55:38.6600+05:00 ::1 0HLPHTU9GUGU4 [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 15:55:38.6610+05:00 ::1 0HLPHTU9GUGU4 [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 15:55:40.1320+05:00 ::1 0HLPHTU9GUGU5 [INF] /api/v1/Status HMAC canonical string:
+GET
+localhost:54996
+/api/v1/Status
+
+09-05 15:55:40.1320+05:00 ::1 0HLPHTU9GUGU5 [INF] /api/v1/Status HMAC Signature:
+797UDxje367h4eEOAOdBPrQ4GKPomDoVwf/evaKKNGs=
+09-05 15:55:40.1320+05:00 ::1 0HLPHTU9GUGU5 [INF] /api/v1/Status HMAC Signature valid
+09-05 15:55:40.3883+05:00 ::1 0HLPHTU9GUGU5 [INF] /api/v1/Status Status request parameters: , , 
+09-05 15:55:45.9734+05:00 ::1 0HLPHTU9GUGU5 [INF] /api/v1/Status Status call completed in 5585ms
+09-05 16:22:58.0499+05:00 ::1 0HLPHUDJP3KT9 [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 16:22:58.1233+05:00 ::1 0HLPHUDJP3KT9 [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 16:22:58.8301+05:00 ::1 0HLPHUDJP3KTA [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 16:22:58.8301+05:00 ::1 0HLPHUDJP3KTA [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 16:22:58.8771+05:00 ::1 0HLPHUDJP3KTB [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 16:22:58.8780+05:00 ::1 0HLPHUDJP3KTB [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 16:22:59.1497+05:00 ::1 0HLPHUDJP3KTC [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 16:22:59.1497+05:00 ::1 0HLPHUDJP3KTC [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 16:22:59.2015+05:00 ::1 0HLPHUDJP3KTD [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 16:22:59.2015+05:00 ::1 0HLPHUDJP3KTD [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 16:22:59.2384+05:00 ::1 0HLPHUDJP3KTE [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 16:22:59.2384+05:00 ::1 0HLPHUDJP3KTE [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 16:22:59.2630+05:00 ::1 0HLPHUDJP3KTF [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 16:22:59.2638+05:00 ::1 0HLPHUDJP3KTF [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 16:22:59.3641+05:00 ::1 0HLPHUDJP3KTG [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 16:22:59.3641+05:00 ::1 0HLPHUDJP3KTG [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 16:22:59.3691+05:00 ::1 0HLPHUDJP3KTH [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 16:22:59.3691+05:00 ::1 0HLPHUDJP3KTH [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 16:22:59.3820+05:00 ::1 0HLPHUDJP3KTI [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 16:22:59.3820+05:00 ::1 0HLPHUDJP3KTI [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 16:22:59.4080+05:00 ::1 0HLPHUDJP3KTJ [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 16:22:59.4080+05:00 ::1 0HLPHUDJP3KTJ [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 16:22:59.4090+05:00 ::1 0HLPHUDJP3KTK [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 16:22:59.4111+05:00 ::1 0HLPHUDJP3KTK [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 16:22:59.4250+05:00 ::1 0HLPHUDJP3KTL [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 16:22:59.4250+05:00 ::1 0HLPHUDJP3KTL [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 16:22:59.4399+05:00 ::1 0HLPHUDJP3KTM [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 16:22:59.4409+05:00 ::1 0HLPHUDJP3KTM [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 16:22:59.4476+05:00 ::1 0HLPHUDJP3KTN [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 16:22:59.4485+05:00 ::1 0HLPHUDJP3KTN [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 16:22:59.4515+05:00 ::1 0HLPHUDJP3KTO [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 16:22:59.4515+05:00 ::1 0HLPHUDJP3KTO [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 16:22:59.4525+05:00 ::1 0HLPHUDJP3KTP [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 16:22:59.4525+05:00 ::1 0HLPHUDJP3KTP [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 16:22:59.4833+05:00 ::1 0HLPHUDJP3KTQ [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 16:22:59.4840+05:00 ::1 0HLPHUDJP3KTQ [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 16:22:59.5846+05:00 ::1 0HLPHUDJP3KTR [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 16:22:59.5846+05:00 ::1 0HLPHUDJP3KTR [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 16:22:59.6993+05:00 ::1 0HLPHUDJP3KTS [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 16:22:59.6993+05:00 ::1 0HLPHUDJP3KTS [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 16:22:59.9623+05:00 ::1 0HLPHUDJP3KTT [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 16:22:59.9623+05:00 ::1 0HLPHUDJP3KTT [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 16:23:04.9557+05:00 ::1 0HLPHUDJP3KTU [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 16:23:04.9566+05:00 ::1 0HLPHUDJP3KTU [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 16:24:18.9283+05:00 ::1 0HLPHUDJP3KTV [INF] /api/v1/Order HMAC canonical string:
+DELETE
+localhost:54996
+/api/v1/Order
+
+09-05 16:24:18.9293+05:00 ::1 0HLPHUDJP3KTV [INF] /api/v1/Order HMAC Signature:
+UQ0N9A/tZKVOwLcVNOmoA7wXvf4JpIyTeNXSKFkHms0=
+09-05 16:24:18.9293+05:00 ::1 0HLPHUDJP3KTV [INF] /api/v1/Order HMAC Signature valid
+09-05 16:24:19.4045+05:00 ::1 0HLPHUDJP3KTV [INF] /api/v1/Order UpdateOrder post parameters: , , 
+09-05 16:47:50.0544+05:00 ::1 0HLPHURGDUCM8 [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 16:47:50.1366+05:00 ::1 0HLPHURGDUCM8 [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 16:47:50.7445+05:00 ::1 0HLPHURGDUCM9 [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 16:47:50.7445+05:00 ::1 0HLPHURGDUCM9 [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 16:47:50.7535+05:00 ::1 0HLPHURGDUCMA [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 16:47:50.7535+05:00 ::1 0HLPHURGDUCMA [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 16:47:50.7545+05:00 ::1 0HLPHURGDUCMB [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 16:47:50.7545+05:00 ::1 0HLPHURGDUCMB [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 16:47:50.7730+05:00 ::1 0HLPHURGDUCMC [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 16:47:50.7730+05:00 ::1 0HLPHURGDUCMC [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 16:47:50.7740+05:00 ::1 0HLPHURGDUCMD [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 16:47:50.7740+05:00 ::1 0HLPHURGDUCMD [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 16:47:50.8505+05:00 ::1 0HLPHURGDUCME [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 16:47:50.8505+05:00 ::1 0HLPHURGDUCME [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 16:47:50.8749+05:00 ::1 0HLPHURGDUCMF [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 16:47:50.8749+05:00 ::1 0HLPHURGDUCMF [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 16:47:50.8759+05:00 ::1 0HLPHURGDUCMG [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 16:47:50.8759+05:00 ::1 0HLPHURGDUCMG [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 16:47:50.8993+05:00 ::1 0HLPHURGDUCMH [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 16:47:50.8993+05:00 ::1 0HLPHURGDUCMH [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 16:47:50.9064+05:00 ::1 0HLPHURGDUCMI [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 16:47:50.9064+05:00 ::1 0HLPHURGDUCMI [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 16:47:50.9212+05:00 ::1 0HLPHURGDUCMJ [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 16:47:50.9212+05:00 ::1 0HLPHURGDUCMJ [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 16:47:50.9556+05:00 ::1 0HLPHURGDUCMK [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 16:47:50.9556+05:00 ::1 0HLPHURGDUCMK [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 16:47:50.9756+05:00 ::1 0HLPHURGDUCML [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 16:47:50.9756+05:00 ::1 0HLPHURGDUCML [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 16:47:50.9766+05:00 ::1 0HLPHURGDUCMM [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 16:47:50.9766+05:00 ::1 0HLPHURGDUCMM [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 16:47:50.9777+05:00 ::1 0HLPHURGDUCMN [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 16:47:50.9777+05:00 ::1 0HLPHURGDUCMN [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 16:47:50.9975+05:00 ::1 0HLPHURGDUCMO [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 16:47:50.9985+05:00 ::1 0HLPHURGDUCMO [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 16:47:50.9993+05:00 ::1 0HLPHURGDUCMP [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 16:47:50.9993+05:00 ::1 0HLPHURGDUCMP [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 16:47:51.0932+05:00 ::1 0HLPHURGDUCMQ [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 16:47:51.0932+05:00 ::1 0HLPHURGDUCMQ [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 16:47:51.0942+05:00 ::1 0HLPHURGDUCMR [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 16:47:51.0942+05:00 ::1 0HLPHURGDUCMR [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 16:47:51.5256+05:00 ::1 0HLPHURGDUCMS [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 16:47:51.5256+05:00 ::1 0HLPHURGDUCMS [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 16:47:54.7805+05:00 ::1 0HLPHURGDUCMT [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 16:47:54.7814+05:00 ::1 0HLPHURGDUCMT [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 16:47:59.8002+05:00 ::1 0HLPHURGDUCMU [INF] /api/v1/Order HMAC canonical string:
+DELETE
+localhost:54996
+/api/v1/Order
+
+09-05 16:47:59.8002+05:00 ::1 0HLPHURGDUCMU [INF] /api/v1/Order HMAC Signature:
+UQ0N9A/tZKVOwLcVNOmoA7wXvf4JpIyTeNXSKFkHms0=
+09-05 16:47:59.8002+05:00 ::1 0HLPHURGDUCMU [INF] /api/v1/Order HMAC Signature valid
+09-05 16:48:00.6712+05:00 ::1 0HLPHURGDUCMU [INF] /api/v1/Order DeleteOrder post parameters: , , 
+09-05 16:48:10.8661+05:00 ::1 0HLPHURGDUCMU [INF] /api/v1/Order UpdateOrder failed: Failed to delete eConnect test Sale Transaction: Sql procedure error codes returned: 
+Error Number = 3566  Stored Procedure= taSopLineDelete  Error Description = Required input variable DeleteType is invalid
+Node Identifier Parameters: taSopLineDelete
+SOPNUMBE = FULORD1000
+SOPTYPE = 6
+ITEMNMBR = 100XLG
+Related Error Code Parameters for Node : taSopLineDelete
+DeleteType = 0
+
+
+<taSopLineDelete>
+  <SOPTYPE>6</SOPTYPE>
+  <SOPNUMBE>FULORD1000</SOPNUMBE>
+  <ITEMNMBR>100XLG</ITEMNMBR>
+  <DeleteType>0</DeleteType>
+</taSopLineDelete>
+
+09-05 16:48:10.8661+05:00 ::1 0HLPHURGDUCMU [INF] /api/v1/Order UpdateOrder complete: 10195
+09-05 16:49:35.9710+05:00 ::1 0HLPHURGDUCMV [INF] /api/v1/Order HMAC canonical string:
+DELETE
+localhost:54996
+/api/v1/Order
+
+09-05 16:49:35.9710+05:00 ::1 0HLPHURGDUCMV [INF] /api/v1/Order HMAC Signature:
+UQ0N9A/tZKVOwLcVNOmoA7wXvf4JpIyTeNXSKFkHms0=
+09-05 16:49:35.9710+05:00 ::1 0HLPHURGDUCMV [INF] /api/v1/Order HMAC Signature valid
+09-05 16:49:35.9756+05:00 ::1 0HLPHURGDUCMV [INF] /api/v1/Order DeleteOrder post parameters: , , 
+09-05 16:49:35.9885+05:00 ::1 0HLPHURGDUCMV [INF] /api/v1/Order UpdateOrder failed: Failed to delete eConnect test Sale Transaction: Sql procedure error codes returned: 
+Error Number = 3566  Stored Procedure= taSopLineDelete  Error Description = Required input variable DeleteType is invalid
+Node Identifier Parameters: taSopLineDelete
+SOPNUMBE = FULORD1000
+SOPTYPE = 6
+ITEMNMBR = 100XLG
+Related Error Code Parameters for Node : taSopLineDelete
+DeleteType = 0
+
+
+<taSopLineDelete>
+  <SOPTYPE>6</SOPTYPE>
+  <SOPNUMBE>FULORD1000</SOPNUMBE>
+  <ITEMNMBR>100XLG</ITEMNMBR>
+  <DeleteType>0</DeleteType>
+</taSopLineDelete>
+
+09-05 16:49:35.9885+05:00 ::1 0HLPHURGDUCMV [INF] /api/v1/Order UpdateOrder complete: 13
+09-05 16:54:25.9950+05:00 ::1 0HLPHUV6E5EFA [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 16:54:26.1684+05:00 ::1 0HLPHUV6E5EFA [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 16:54:27.4663+05:00 ::1 0HLPHUV6E5EFB [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 16:54:27.4704+05:00 ::1 0HLPHUV6E5EFC [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 16:54:27.4793+05:00 ::1 0HLPHUV6E5EFC [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 16:54:27.4885+05:00 ::1 0HLPHUV6E5EFB [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 16:54:27.5013+05:00 ::1 0HLPHUV6E5EFD [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 16:54:27.5042+05:00 ::1 0HLPHUV6E5EFD [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 16:54:27.5142+05:00 ::1 0HLPHUV6E5EFE [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 16:54:27.5452+05:00 ::1 0HLPHUV6E5EFE [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 16:54:27.7227+05:00 ::1 0HLPHUV6E5EFF [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 16:54:27.7387+05:00 ::1 0HLPHUV6E5EFF [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 16:54:27.8180+05:00 ::1 0HLPHUV6E5EFG [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 16:54:27.8235+05:00 ::1 0HLPHUV6E5EFH [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 16:54:27.8983+05:00 ::1 0HLPHUV6E5EFH [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 16:54:27.9172+05:00 ::1 0HLPHUV6E5EFG [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 16:54:28.1053+05:00 ::1 0HLPHUV6E5EFI [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 16:54:28.1123+05:00 ::1 0HLPHUV6E5EFJ [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 16:54:28.1699+05:00 ::1 0HLPHUV6E5EFJ [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 16:54:28.1942+05:00 ::1 0HLPHUV6E5EFI [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 16:54:28.1982+05:00 ::1 0HLPHUV6E5EFK [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 16:54:28.2570+05:00 ::1 0HLPHUV6E5EFL [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 16:54:28.2850+05:00 ::1 0HLPHUV6E5EFL [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 16:54:28.2884+05:00 ::1 0HLPHUV6E5EFK [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 16:54:28.3998+05:00 ::1 0HLPHUV6E5EFM [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 16:54:28.4311+05:00 ::1 0HLPHUV6E5EFM [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 16:54:28.5379+05:00 ::1 0HLPHUV6E5EFN [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 16:54:28.6135+05:00 ::1 0HLPHUV6E5EFN [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 16:54:28.6898+05:00 ::1 0HLPHUV6E5EFP [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 16:54:28.6685+05:00 ::1 0HLPHUV6E5EFO [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 16:54:28.7003+05:00 ::1 0HLPHUV6E5EFO [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 16:54:28.7845+05:00 ::1 0HLPHUV6E5EFP [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 16:54:28.8696+05:00 ::1 0HLPHUV6E5EFQ [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 16:54:28.8946+05:00 ::1 0HLPHUV6E5EFQ [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 16:54:28.9171+05:00 ::1 0HLPHUV6E5EFR [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 16:54:28.9325+05:00 ::1 0HLPHUV6E5EFR [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 16:54:29.0039+05:00 ::1 0HLPHUV6E5EFS [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 16:54:29.0742+05:00 ::1 0HLPHUV6E5EFS [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 16:54:29.3132+05:00 ::1 0HLPHUV6E5EFT [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 16:54:29.3181+05:00 ::1 0HLPHUV6E5EFT [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 16:54:29.9315+05:00 ::1 0HLPHUV6E5EFU [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 16:54:29.9378+05:00 ::1 0HLPHUV6E5EFU [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 16:54:35.3355+05:00 ::1 0HLPHUV6E5EFV [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 16:54:35.3425+05:00 ::1 0HLPHUV6E5EFV [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 16:54:50.1360+05:00 ::1 0HLPHUV6E5EG0 [INF] /api/v1/Order HMAC canonical string:
+DELETE
+localhost:54996
+/api/v1/Order
+
+09-05 16:54:50.1420+05:00 ::1 0HLPHUV6E5EG0 [INF] /api/v1/Order HMAC Signature:
+UQ0N9A/tZKVOwLcVNOmoA7wXvf4JpIyTeNXSKFkHms0=
+09-05 16:54:50.1440+05:00 ::1 0HLPHUV6E5EG0 [INF] /api/v1/Order HMAC Signature valid
+09-05 16:54:51.3969+05:00 ::1 0HLPHUV6E5EG0 [INF] /api/v1/Order DeleteOrder post parameters: , , 
+09-05 16:57:07.2448+05:00 ::1 0HLPHV0MFQFGI [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 16:57:07.3448+05:00 ::1 0HLPHV0MFQFGI [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 16:57:08.2427+05:00 ::1 0HLPHV0MFQFGJ [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 16:57:08.3100+05:00 ::1 0HLPHV0MFQFGK [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 16:57:08.3140+05:00 ::1 0HLPHV0MFQFGK [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 16:57:08.3271+05:00 ::1 0HLPHV0MFQFGL [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 16:57:08.3282+05:00 ::1 0HLPHV0MFQFGM [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 16:57:08.3302+05:00 ::1 0HLPHV0MFQFGJ [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 16:57:08.3560+05:00 ::1 0HLPHV0MFQFGL [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 16:57:08.3590+05:00 ::1 0HLPHV0MFQFGM [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 16:57:08.4599+05:00 ::1 0HLPHV0MFQFGN [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 16:57:08.4905+05:00 ::1 0HLPHV0MFQFGO [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 16:57:08.4905+05:00 ::1 0HLPHV0MFQFGP [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 16:57:08.5139+05:00 ::1 0HLPHV0MFQFGN [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 16:57:08.5179+05:00 ::1 0HLPHV0MFQFGO [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 16:57:08.5311+05:00 ::1 0HLPHV0MFQFGP [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 16:57:08.5341+05:00 ::1 0HLPHV0MFQFGQ [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 16:57:08.5380+05:00 ::1 0HLPHV0MFQFGQ [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 16:57:08.6221+05:00 ::1 0HLPHV0MFQFGR [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 16:57:08.6261+05:00 ::1 0HLPHV0MFQFGR [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 16:57:08.6310+05:00 ::1 0HLPHV0MFQFGS [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 16:57:08.6362+05:00 ::1 0HLPHV0MFQFGS [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 16:57:08.6500+05:00 ::1 0HLPHV0MFQFGT [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 16:57:08.6562+05:00 ::1 0HLPHV0MFQFGT [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 16:57:08.7011+05:00 ::1 0HLPHV0MFQFGU [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 16:57:08.7390+05:00 ::1 0HLPHV0MFQFGU [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 16:57:08.7410+05:00 ::1 0HLPHV0MFQFGV [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 16:57:08.7479+05:00 ::1 0HLPHV0MFQFGV [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 16:57:08.8069+05:00 ::1 0HLPHV0MFQFH0 [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 16:57:08.8158+05:00 ::1 0HLPHV0MFQFH0 [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 16:57:08.8428+05:00 ::1 0HLPHV0MFQFH1 [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 16:57:08.8484+05:00 ::1 0HLPHV0MFQFH1 [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 16:57:08.8957+05:00 ::1 0HLPHV0MFQFH2 [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 16:57:08.9393+05:00 ::1 0HLPHV0MFQFH2 [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 16:57:09.0185+05:00 ::1 0HLPHV0MFQFH3 [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 16:57:09.0206+05:00 ::1 0HLPHV0MFQFH4 [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 16:57:09.0225+05:00 ::1 0HLPHV0MFQFH3 [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 16:57:09.0247+05:00 ::1 0HLPHV0MFQFH4 [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 16:57:09.0275+05:00 ::1 0HLPHV0MFQFH5 [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 16:57:09.0709+05:00 ::1 0HLPHV0MFQFH5 [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 16:57:09.5559+05:00 ::1 0HLPHV0MFQFH6 [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 16:57:09.5599+05:00 ::1 0HLPHV0MFQFH6 [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 16:57:12.1684+05:00 ::1 0HLPHV0MFQFH7 [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 16:57:12.1728+05:00 ::1 0HLPHV0MFQFH7 [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 16:57:18.0262+05:00 ::1 0HLPHV0MFQFH8 [INF] /api/v1/Order HMAC canonical string:
+DELETE
+localhost:54996
+/api/v1/Order
+
+09-05 16:57:18.0293+05:00 ::1 0HLPHV0MFQFH8 [INF] /api/v1/Order HMAC Signature:
+UQ0N9A/tZKVOwLcVNOmoA7wXvf4JpIyTeNXSKFkHms0=
+09-05 16:57:18.0322+05:00 ::1 0HLPHV0MFQFH8 [INF] /api/v1/Order HMAC Signature valid
+09-05 16:57:19.1429+05:00 ::1 0HLPHV0MFQFH8 [INF] /api/v1/Order DeleteOrder post parameters: , , 
+09-05 16:57:59.7912+05:00 ::1 0HLPHV164RHP3 [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 16:57:59.8786+05:00 ::1 0HLPHV164RHP3 [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 16:58:00.7136+05:00 ::1 0HLPHV164RHP4 [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 16:58:00.7344+05:00 ::1 0HLPHV164RHP4 [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 16:58:00.7444+05:00 ::1 0HLPHV164RHP5 [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 16:58:00.7826+05:00 ::1 0HLPHV164RHP5 [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 16:58:00.8136+05:00 ::1 0HLPHV164RHP6 [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 16:58:00.8479+05:00 ::1 0HLPHV164RHP7 [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 16:58:00.8488+05:00 ::1 0HLPHV164RHP6 [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 16:58:00.8627+05:00 ::1 0HLPHV164RHP7 [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 16:58:01.0603+05:00 ::1 0HLPHV164RHP8 [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 16:58:01.0715+05:00 ::1 0HLPHV164RHP8 [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 16:58:01.1004+05:00 ::1 0HLPHV164RHP9 [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 16:58:01.1023+05:00 ::1 0HLPHV164RHPA [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 16:58:01.1123+05:00 ::1 0HLPHV164RHPB [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 16:58:01.1274+05:00 ::1 0HLPHV164RHPB [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 16:58:01.1375+05:00 ::1 0HLPHV164RHP9 [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 16:58:01.1783+05:00 ::1 0HLPHV164RHPA [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 16:58:01.2319+05:00 ::1 0HLPHV164RHPC [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 16:58:01.2463+05:00 ::1 0HLPHV164RHPC [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 16:58:01.2747+05:00 ::1 0HLPHV164RHPD [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 16:58:01.2798+05:00 ::1 0HLPHV164RHPD [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 16:58:01.3427+05:00 ::1 0HLPHV164RHPE [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 16:58:01.3487+05:00 ::1 0HLPHV164RHPE [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 16:58:01.4605+05:00 ::1 0HLPHV164RHPF [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 16:58:01.5358+05:00 ::1 0HLPHV164RHPF [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 16:58:01.5821+05:00 ::1 0HLPHV164RHPG [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 16:58:01.6150+05:00 ::1 0HLPHV164RHPH [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 16:58:01.6241+05:00 ::1 0HLPHV164RHPH [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 16:58:01.6320+05:00 ::1 0HLPHV164RHPG [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 16:58:01.6479+05:00 ::1 0HLPHV164RHPI [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 16:58:01.7089+05:00 ::1 0HLPHV164RHPI [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 16:58:01.7758+05:00 ::1 0HLPHV164RHPJ [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 16:58:01.8039+05:00 ::1 0HLPHV164RHPJ [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 16:58:01.8337+05:00 ::1 0HLPHV164RHPK [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 16:58:01.9340+05:00 ::1 0HLPHV164RHPK [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 16:58:02.0215+05:00 ::1 0HLPHV164RHPL [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 16:58:02.0540+05:00 ::1 0HLPHV164RHPL [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 16:58:02.1622+05:00 ::1 0HLPHV164RHPM [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 16:58:02.1681+05:00 ::1 0HLPHV164RHPM [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 16:58:02.4141+05:00 ::1 0HLPHV164RHPN [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 16:58:02.4190+05:00 ::1 0HLPHV164RHPN [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 16:58:05.2379+05:00 ::1 0HLPHV164RHPO [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 16:58:05.2449+05:00 ::1 0HLPHV164RHPO [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 16:58:09.0546+05:00 ::1 0HLPHV164RHPP [INF] /api/v1/Order HMAC canonical string:
+DELETE
+localhost:54996
+/api/v1/Order
+
+09-05 16:58:09.0575+05:00 ::1 0HLPHV164RHPP [INF] /api/v1/Order HMAC Signature:
+UQ0N9A/tZKVOwLcVNOmoA7wXvf4JpIyTeNXSKFkHms0=
+09-05 16:58:09.0615+05:00 ::1 0HLPHV164RHPP [INF] /api/v1/Order HMAC Signature valid
+09-05 16:58:10.2055+05:00 ::1 0HLPHV164RHPP [INF] /api/v1/Order DeleteOrder post parameters: , , 
+09-05 17:14:28.4423+05:00 ::1 0HLPHVACPJGIR [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 17:14:28.5753+05:00 ::1 0HLPHVACPJGIR [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 17:14:29.8488+05:00 ::1 0HLPHVACPJGIS [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 17:14:29.8558+05:00 ::1 0HLPHVACPJGIT [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 17:14:29.8588+05:00 ::1 0HLPHVACPJGIS [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 17:14:29.8618+05:00 ::1 0HLPHVACPJGIT [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 17:14:29.8810+05:00 ::1 0HLPHVACPJGIU [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 17:14:29.8901+05:00 ::1 0HLPHVACPJGIU [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 17:14:30.0294+05:00 ::1 0HLPHVACPJGIV [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 17:14:30.0423+05:00 ::1 0HLPHVACPJGIV [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 17:14:30.1126+05:00 ::1 0HLPHVACPJGJ0 [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 17:14:30.1214+05:00 ::1 0HLPHVACPJGJ0 [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 17:14:30.1875+05:00 ::1 0HLPHVACPJGJ1 [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 17:14:30.2224+05:00 ::1 0HLPHVACPJGJ1 [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 17:14:30.2254+05:00 ::1 0HLPHVACPJGJ2 [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 17:14:30.2866+05:00 ::1 0HLPHVACPJGJ2 [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 17:14:30.3332+05:00 ::1 0HLPHVACPJGJ3 [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 17:14:30.3501+05:00 ::1 0HLPHVACPJGJ4 [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 17:14:30.3510+05:00 ::1 0HLPHVACPJGJ3 [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 17:14:30.3823+05:00 ::1 0HLPHVACPJGJ4 [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 17:14:30.4889+05:00 ::1 0HLPHVACPJGJ5 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 17:14:30.4929+05:00 ::1 0HLPHVACPJGJ6 [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 17:14:30.4998+05:00 ::1 0HLPHVACPJGJ5 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 17:14:30.5068+05:00 ::1 0HLPHVACPJGJ7 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 17:14:30.5309+05:00 ::1 0HLPHVACPJGJ6 [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 17:14:30.5530+05:00 ::1 0HLPHVACPJGJ7 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 17:14:30.7494+05:00 ::1 0HLPHVACPJGJ8 [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 17:14:30.7652+05:00 ::1 0HLPHVACPJGJ9 [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 17:14:30.7684+05:00 ::1 0HLPHVACPJGJA [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 17:14:30.7703+05:00 ::1 0HLPHVACPJGJ9 [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 17:14:30.7748+05:00 ::1 0HLPHVACPJGJA [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 17:14:30.7858+05:00 ::1 0HLPHVACPJGJ8 [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 17:14:30.9054+05:00 ::1 0HLPHVACPJGJB [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 17:14:30.9208+05:00 ::1 0HLPHVACPJGJB [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 17:14:30.9592+05:00 ::1 0HLPHVACPJGJC [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 17:14:30.9914+05:00 ::1 0HLPHVACPJGJC [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 17:14:31.0366+05:00 ::1 0HLPHVACPJGJD [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 17:14:31.0497+05:00 ::1 0HLPHVACPJGJD [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 17:14:31.0767+05:00 ::1 0HLPHVACPJGJE [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 17:14:31.1368+05:00 ::1 0HLPHVACPJGJE [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 17:14:31.8742+05:00 ::1 0HLPHVACPJGJF [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 17:14:31.8812+05:00 ::1 0HLPHVACPJGJF [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 17:14:34.5449+05:00 ::1 0HLPHVACPJGJG [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 17:14:34.5485+05:00 ::1 0HLPHVACPJGJG [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 17:58:06.9149+05:00 ::1 0HLPI02P55V3T [INF] /swagger/ HMAC canonical string:
+GET
+localhost:54996
+/swagger/
+
+09-05 17:58:07.0117+05:00 ::1 0HLPI02P55V3T [INF] /swagger/ HMAC Signature:
+s51BS5n6U+SSVC/I0Imu9a+L3YRd4XvAs7SrwJTG/lo=
+09-05 17:58:08.0782+05:00 ::1 0HLPI02P55V3U [INF] /swagger/css/screen.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/screen.css
+
+09-05 17:58:08.1402+05:00 ::1 0HLPI02P55V3U [INF] /swagger/css/screen.css HMAC Signature:
+OKZc29egHYs7UXIN+wq2qrS1bqUW54WEM0J5ydfevuI=
+09-05 17:58:08.2419+05:00 ::1 0HLPI02P55V3V [INF] /swagger/lib/object-assign-pollyfill.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/object-assign-pollyfill.js
+
+09-05 17:58:08.2449+05:00 ::1 0HLPI02P55V3V [INF] /swagger/lib/object-assign-pollyfill.js HMAC Signature:
+qGVVmqd0CbZI8JZ2V/Zq+1F9PGRw5v56I84VEZ+8TV0=
+09-05 17:58:08.2570+05:00 ::1 0HLPI02P55V40 [INF] /swagger/css/typography.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/typography.css
+
+09-05 17:58:08.2703+05:00 ::1 0HLPI02P55V40 [INF] /swagger/css/typography.css HMAC Signature:
+rHRvqgm2IqlceKvIgOEDMsWay1D3uNPAOki+G10fixM=
+09-05 17:58:08.4000+05:00 ::1 0HLPI02P55V41 [INF] /swagger/css/reset.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/reset.css
+
+09-05 17:58:08.4099+05:00 ::1 0HLPI02P55V41 [INF] /swagger/css/reset.css HMAC Signature:
+nttzSzyw8XKRQ4KAREaLOa6l9ufH4zr5k5xRJDpWFrA=
+09-05 17:58:08.4274+05:00 ::1 0HLPI02P55V42 [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.ba-bbq.min.js
+
+09-05 17:58:08.4410+05:00 ::1 0HLPI02P55V42 [INF] /swagger/lib/jquery.ba-bbq.min.js HMAC Signature:
+Ng9a+7axIGo6hdUMW2EyTZgniddECExjEMVbJM2+UGI=
+09-05 17:58:08.4785+05:00 ::1 0HLPI02P55V43 [INF] /swagger/lib/jquery.wiggle.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.wiggle.min.js
+
+09-05 17:58:08.5066+05:00 ::1 0HLPI02P55V44 [INF] /swagger/lib/handlebars-4.0.5.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/handlebars-4.0.5.js
+
+09-05 17:58:08.5432+05:00 ::1 0HLPI02P55V45 [INF] /swagger/lib/lodash.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/lodash.min.js
+
+09-05 17:58:08.5503+05:00 ::1 0HLPI02P55V44 [INF] /swagger/lib/handlebars-4.0.5.js HMAC Signature:
+CbY4RbGhEfTt29dn8ydfL8pkaDpTxG7zn4IwsK6utQM=
+09-05 17:58:08.5492+05:00 ::1 0HLPI02P55V45 [INF] /swagger/lib/lodash.min.js HMAC Signature:
+Cfa0bdVlfBnfBCWJRmY83eJ7hhcDoLXJFGGSbK4K88Q=
+09-05 17:58:08.5655+05:00 ::1 0HLPI02P55V43 [INF] /swagger/lib/jquery.wiggle.min.js HMAC Signature:
+5h/7TuOeKYqH4ficVK4GcwAYFUqVsrroJ470mJ+GjGU=
+09-05 17:58:08.6728+05:00 ::1 0HLPI02P55V46 [INF] /swagger/swagger-ui.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/swagger-ui.min.js
+
+09-05 17:58:08.6964+05:00 ::1 0HLPI02P55V46 [INF] /swagger/swagger-ui.min.js HMAC Signature:
+/2M5L7wm+d9f3E9wRTR9jjkTuiryAimiDcMETCeL76k=
+09-05 17:58:08.7372+05:00 ::1 0HLPI02P55V47 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack_extended.js
+
+09-05 17:58:08.7485+05:00 ::1 0HLPI02P55V47 [INF] /swagger/lib/highlight.9.1.0.pack_extended.js HMAC Signature:
+nmyxgnTZi1fkDvFggn1HbfIKAk5YfkI/izeY3czttkU=
+09-05 17:58:08.7894+05:00 ::1 0HLPI02P55V48 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/highlight.9.1.0.pack.js
+
+09-05 17:58:08.7959+05:00 ::1 0HLPI02P55V48 [INF] /swagger/lib/highlight.9.1.0.pack.js HMAC Signature:
+YiBi3wmdEuFMdS3xPoW+QhnympSOWipkQo8hbMHBgwM=
+09-05 17:58:08.7986+05:00 ::1 0HLPI02P55V49 [INF] /swagger/lib/jsoneditor.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jsoneditor.min.js
+
+09-05 17:58:08.8056+05:00 ::1 0HLPI02P55V49 [INF] /swagger/lib/jsoneditor.min.js HMAC Signature:
+oK44LVdDX9sXh0U41AXLwPBib6gLBvaadoLzsltqauE=
+09-05 17:58:08.9595+05:00 ::1 0HLPI02P55V4A [INF] /swagger/lib/swagger-oauth.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/swagger-oauth.js
+
+09-05 17:58:08.9625+05:00 ::1 0HLPI02P55V4B [INF] /swagger/images/logo_small.png HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/logo_small.png
+
+09-05 17:58:08.9655+05:00 ::1 0HLPI02P55V4A [INF] /swagger/lib/swagger-oauth.js HMAC Signature:
+C9pBA+GJWZBUbtkyTiDCpk/hF66GCjAt4vyZoxm1kFg=
+09-05 17:58:08.9724+05:00 ::1 0HLPI02P55V4B [INF] /swagger/images/logo_small.png HMAC Signature:
+mAkKltnrvrNK2lBPwY2LPuUJ4hlQQHTJYOsa6yR6Th4=
+09-05 17:58:09.0328+05:00 ::1 0HLPI02P55V4C [INF] /swagger/lib/backbone-min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/backbone-min.js
+
+09-05 17:58:09.1254+05:00 ::1 0HLPI02P55V4D [INF] /swagger/lib/marked.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/marked.js
+
+09-05 17:58:09.1664+05:00 ::1 0HLPI02P55V4D [INF] /swagger/lib/marked.js HMAC Signature:
+eWy6l8bAlCs5KMaKcsGKG6k0iKgpqfCZmboP6BvHJIo=
+09-05 17:58:09.1932+05:00 ::1 0HLPI02P55V4C [INF] /swagger/lib/backbone-min.js HMAC Signature:
+mGZ5Q6TmiIKVbE+suz8jjJO7TIusiI9yRIhjsfS4LzE=
+09-05 17:58:09.2315+05:00 ::1 0HLPI02P55V4E [INF] /swagger/css/print.css HMAC canonical string:
+GET
+localhost:54996
+/swagger/css/print.css
+
+09-05 17:58:09.2386+05:00 ::1 0HLPI02P55V4F [INF] /swagger/lib/jquery-1.8.0.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery-1.8.0.min.js
+
+09-05 17:58:09.2469+05:00 ::1 0HLPI02P55V4F [INF] /swagger/lib/jquery-1.8.0.min.js HMAC Signature:
+6xd02LgIFARroKC0/K5XqYWCKnL2ow+B9kcM1rDX7BU=
+09-05 17:58:09.2560+05:00 ::1 0HLPI02P55V4E [INF] /swagger/css/print.css HMAC Signature:
+E2idjL8B7wC9pAiSYQWNe5IrsTw5qPQ8urtnRGFKO54=
+09-05 17:58:09.3956+05:00 ::1 0HLPI02P55V4G [INF] /swagger/lib/jquery.slideto.min.js HMAC canonical string:
+GET
+localhost:54996
+/swagger/lib/jquery.slideto.min.js
+
+09-05 17:58:09.4116+05:00 ::1 0HLPI02P55V4G [INF] /swagger/lib/jquery.slideto.min.js HMAC Signature:
+u1bU61HTyQcfT+729MoITb7gPiivK22+CTP6192cO68=
+09-05 17:58:09.9959+05:00 ::1 0HLPI02P55V4H [INF] /swagger/v1/swagger.json HMAC canonical string:
+GET
+localhost:54996
+/swagger/v1/swagger.json
+
+09-05 17:58:10.1160+05:00 ::1 0HLPI02P55V4H [INF] /swagger/v1/swagger.json HMAC Signature:
+KAQXP2/EMNOWC29oIT5eROcpWNO6phY6HV01K18p10k=
+09-05 17:58:15.1149+05:00 ::1 0HLPI02P55V4I [INF] /swagger/images/throbber.gif HMAC canonical string:
+GET
+localhost:54996
+/swagger/images/throbber.gif
+
+09-05 17:58:15.1239+05:00 ::1 0HLPI02P55V4I [INF] /swagger/images/throbber.gif HMAC Signature:
+Q3v4ctVNCSVs2Gh8aC2ZH75UOFe1gEMwRoamxnzYHiA=
+09-05 18:15:51.4016+05:00 ::1 0HLPI02P55V4J [INF] /api/v1/Order HMAC canonical string:
+DELETE
+localhost:54996
+/api/v1/Order
+
+09-05 18:15:51.4056+05:00 ::1 0HLPI02P55V4J [INF] /api/v1/Order HMAC Signature:
+UQ0N9A/tZKVOwLcVNOmoA7wXvf4JpIyTeNXSKFkHms0=
+09-05 18:15:51.4087+05:00 ::1 0HLPI02P55V4J [INF] /api/v1/Order HMAC Signature valid
+09-05 18:15:52.4059+05:00 ::1 0HLPI02P55V4J [INF] /api/v1/Order DeleteOrder post parameters: , , 
+09-05 18:19:58.2606+05:00 ::1 0HLPI02P55V4J [INF] /api/v1/Order UpdateOrder complete: 245853

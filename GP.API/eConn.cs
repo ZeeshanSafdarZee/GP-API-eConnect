@@ -588,10 +588,14 @@ namespace GP.API
                 taSopLineDelete salesLine = new taSopLineDelete();
 
                 taSopDeleteDocument sopDeleteDocument = new taSopDeleteDocument();
-                salesLine.SOPTYPE = 2;
-                salesLine.SOPNUMBE = "ORDST2236";
+                salesLine.SOPNUMBE = "ORDST0007";
                 salesLine.ITEMNMBR = "3-B3813A";
-                sopDeleteDocument.SOPNUMBE = "ORDST2236";
+                salesLine.SOPTYPE = 2;
+                //salesLine.DeleteType = 1; // delete one line item
+                salesLine.DeleteType = 2; 
+
+                sopDeleteDocument.SOPNUMBE = "ORDST0007";
+                sopDeleteDocument.SOPTYPE = 2;
 
                 deleteLineType.taSopLineDelete = salesLine;
 
